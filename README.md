@@ -22,12 +22,11 @@ With hands-on experience in cutting-edge AI systems and XR development, I’m dr
 - **M.S. in Robotics and Autonomous Systems**  
   *Arizona State University (2024 – 2025)*  
   - **GPA:** 4.00/4.00  
-  - **Honors:** Llama Impact Hack Winner
 
 - **B.S. in Computer Science**  
   *Arizona State University (2021 – 2024)*  
   - **GPA:** 4.00/4.00  
-  - **Honors:** Summa Cum Laude, Moeur Award, Dean’s List, 6× Hackathon Winner
+  - **Honors:** Summa Cum Laude, Moeur Award
 
 ---
 
