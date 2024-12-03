@@ -77,23 +77,6 @@ With hands-on experience in cutting-edge AI systems and XR development, I’m dr
 
 ---
 
-## 🚀 Projects
-
-### 🌐 **Geofenced Attendance System**  
-**Description:** Location-based attendance tracking alternative to iClicker.  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma.
-
-### 🤖 **RoboLLVM**  
-**Description:** A multimodal large language vision model for robotics, enabling robots to process real-time commands and video streams.  
-**Tech Stack:** YOLOv8, SA-1B dataset, PyTorch.
-
-### 🧑‍🎓 **EquiBraille**  
-**Description:** AI-powered refreshable Braille display that transforms classroom text into real-time 3D Braille for visually impaired students.  
-**Highlights:** Won $51,000 in seed funding from Verizon Forward for Good Challenge.  
-**Tech Stack:** React.js, Tailwind CSS, FastAPI, LangChain, AWS (EC2, SQS, S3).
-
----
-
 ## 📫 Let’s Connect!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://kevalshah.dev)
