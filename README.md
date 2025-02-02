@@ -19,13 +19,6 @@ With hands-on experience in cutting-edge AI systems and XR development, I’m dr
 
 ---
 
-## 📈 GitHub Stats
-
-![Keval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevalshah14&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalshah14&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Technical Skills
 
 **Languages:**  
