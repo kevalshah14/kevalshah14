@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-🎓 **Master’s Student** in **Robotics and Autonomous Systems** at **Arizona State University**.  
+🎓 **Master’s Student** in **Robotics and Autonomous Systems (AI)** at **Arizona State University**.  
 🏆 **7× Hackathon Winner**   
 💡 Passionate about **AI, Robotics, and Full Stack Development**.  
 
