@@ -1,83 +1,48 @@
-# Hi there! 👋 I'm Keval Shah
+## 🚀 What I Do
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevalshah.dev-informational?style=flat-square&logo=google-chrome&logoColor=white)](https://kevalshah.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-keval--shah14-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/keval-shah14/)
-[![GitHub](https://img.shields.io/badge/GitHub-kevalshah14-lightgrey?style=flat-square&logo=github)](https://github.com/kevalshah14)
-[![X (Twitter)](https://img.shields.io/badge/X-keval__shah14-1DA1F2?style=flat-square&logo=x)](https://x.com/keval_shah14)
+- **AI Engineering**: Production ML systems, LLM fine-tuning, RAG pipelines
+- **Robotics Research**: Computer vision, imitation learning, autonomous systems  
+- **Embedded Systems**: Firmware development, sensor integration, real-time control
 
-![Hi There Gif](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+## 💼 Experience
 
----
+### **Machine Learning & Embedded Systems Intern** - The Good Drone Company
+*June 2025 – August 2025 | Remote*
+- Built servo degradation ML model using Arduino Nano test rig with PWM generation and current sensing
+- Developed Python MAVLink parser for flight log analysis with FFT spectral analysis on IMU data
+- Implemented bare-metal C firmware for distributed PIC32 microcontroller network with custom I²C protocols
 
-## 🧠 About Me
+### **Founding AI Engineer** - BeHuman(e)
+*March 2023 - June 2025 | Remote*
+- Architected production AI systems including multi-modal RAG pipeline for therapeutic dialogue
+- Fine-tuned LLMs using RLHF, improving empathy metrics by 35% and safety alignment scores
+- Built end-to-end ML infrastructure serving 10,000+ users with sub-200ms response times
 
-🎓 **Master’s Student** in **Robotics and Autonomous Systems (AI)** at **Arizona State University**.  
-🏆 **7× Hackathon Winner**   
-💡 Passionate about **AI, Robotics, and Full Stack Development**.  
+## 🔬 Key Projects
 
-With hands-on experience in cutting-edge AI systems and XR development, I’m driven to create innovative solutions that solve real-world problems. 🌟
+- **EgoTransfer**: Egocentric video imitation learning for robot control
+- **RoboLLVM**: Vision-Language-Action model for robotics
+- **Autonomous Chess System**: CV-based robotic chess player
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+**Languages**: Python, C/C++, TypeScript, MATLAB  
+**ML/AI**: PyTorch, TensorFlow, OpenCV, LangChain, ROS  
+**Systems**: FastAPI, PostgreSQL, Docker, AWS, React
 
-### **Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-### **AI & Machine Learning:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) 
-![LangChain](https://img.shields.io/badge/-LangChain-4693E8?logo=Langchain)  
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) 
-![NVIDIA Isaac SDK](https://img.shields.io/badge/-NVIDIA_Isaac_SDK-76B900?logo=nvidia&logoColor=white)
+## 🌐 Connect
 
-### **Frontend Development:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+<div align="center">
 
-### **Backend Development:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) 
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4A154B)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevalshah.dev-blue?style=for-the-badge&logo=vercel)](https://kevalshah.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-keval--shah14-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keval-shah14)
+[![Email](https://img.shields.io/badge/Email-kshah57@asu.edu-red?style=for-the-badge&logo=gmail)](mailto:kshah57@asu.edu)
 
-### **Web Scraping & Automation:**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) 
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-darkgreen)
-
-### **Cloud Platforms & Tools:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+</div>
 
 ---
 
-## 📫 Let’s Connect!
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://kevalshah.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kshah57@asu.edu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keval-shah14/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/kevalshah14)
-[![Twitter (X)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/keval_shah14)
-
----
-
-💡 *Feel free to explore my repositories, visit my portfolio, or drop me a message. I’m always excited to collaborate on innovative projects!*
+<div align="center">
+  <i>Building intelligent systems for the future 🤖</i>
+</div>
