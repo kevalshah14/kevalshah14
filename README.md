@@ -5,14 +5,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kevalshah14-lightgrey?style=flat-square&logo=github)](https://github.com/kevalshah14)
 [![X (Twitter)](https://img.shields.io/badge/X-keval__shah14-1DA1F2?style=flat-square&logo=x)](https://x.com/keval_shah14)
 
-![Hi There Gif](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
 
 ---
 
 ## 🧠 About Me
 
 🎓 **Master’s Student** in **Robotics and Autonomous Systems (AI)** at **Arizona State University**.  
-🏆 **7× Hackathon Winner**   
+🏆 **8× Hackathon Winner**   
 💡 Passionate about **AI, Robotics, and Full Stack Development**.  
 
 With hands-on experience in cutting-edge AI systems and XR development, I’m driven to create innovative solutions that solve real-world problems. 🌟
