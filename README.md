@@ -1,7 +1,7 @@
 ## 🚀 What I Do
 
 - **AI Engineering**: Production ML systems, LLM fine-tuning, RAG pipelines
-- **Robotics Research**: Computer vision, imitation learning, autonomous systems  
+- **Robotics**: Computer vision, imitation learning, autonomous systems  
 - **Embedded Systems**: Firmware development, sensor integration, real-time control
 
 ## 💼 Experience
