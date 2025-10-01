@@ -43,6 +43,3 @@
 
 ---
 
-<div align="center">
-  <i>Building intelligent systems for the future 🤖</i>
-</div>
