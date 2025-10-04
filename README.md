@@ -7,13 +7,13 @@
 ## 💼 Experience
 
 ### **Machine Learning & Embedded Systems Intern** - The Good Drone Company
-*June 2025 – August 2025 | Remote*
+*June 2025 – August 2025 | Tempe,Az*
 - Built servo degradation ML model using Arduino Nano test rig with PWM generation and current sensing
 - Developed Python MAVLink parser for flight log analysis with FFT spectral analysis on IMU data
 - Implemented bare-metal C firmware for distributed PIC32 microcontroller network with custom I²C protocols
 
 ### **Founding AI Engineer** - BeHuman(e)
-*March 2023 - June 2025 | Tempe,Az*
+*March 2023 - June 2025 | Remote*
 - Architected production AI systems including multi-modal RAG pipeline for therapeutic dialogue
 - Fine-tuned LLMs using RLHF, improving empathy metrics by 35% and safety alignment scores
 - Built end-to-end ML infrastructure serving 10,000+ users with sub-200ms response times
